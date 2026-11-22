@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a first year software engineering student on a journey.
+I am a first year software engineering student
 
 <!--
 **aidenhuynh29/aidenhuynh29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
